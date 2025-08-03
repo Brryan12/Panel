@@ -20,6 +20,8 @@ panel serve panel_app_simple.py --show --autoreload
 - La aplicación se ejecuta en: `http://localhost:5006/panel_app_simple`
 - Se abrirá automáticamente en tu navegador con `--show`
 
+# Subir archivos de mas de 200Mb a Github
+
 ### Instalar Git LFS
 - git lfs install
 
