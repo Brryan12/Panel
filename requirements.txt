@@ -1,0 +1,29 @@
+# Panel y HoloViews ecosystem
+holoviews>=1.17.0
+geoviews>=1.10.0
+param>=2.0.0
+
+# Deplyment and server
+panel>=1.7.0
+folium>=0.14.0
+
+
+# Geospatial libraries
+geopandas>=0.14.0
+cartopy>=0.22.0
+pyproj>=3.6.0
+shapely>=2.0.0
+
+# Visualization and data processing
+bokeh>=3.3.0
+datashader>=0.15.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional but recommended
+jupyter>=1.0.0
+jupyter_bokeh>=3.0.0
+
+# For better performance
+numba>=0.58.0
